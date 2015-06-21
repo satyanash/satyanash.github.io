@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Movie Review]Dial M for Murder"
+title: "[Movie Review] Dial M for Murder"
 date: 2015-06-21T12:56:21+05:30
 ---
 
