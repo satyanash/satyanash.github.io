@@ -12,7 +12,7 @@ Aaand I loved it.
 
 The movie is a thrilling ride that never lets you rest.
 One over-the-top stunt after other kept me on the edge of my seat. 
-I could noticeably hear all the other audience exhaling after every sequence.
+I could noticeably hear all the other audience gasping after every sequence.
 
 For me, most action movie euphoria tends to fade after a day or two; that doesn't seem to be the case for Fury Road.
 I don't think this movie is going to be forgettable and I've made it a point to make sure I watch the original Mad Max movies someday.
