@@ -5,8 +5,8 @@ date: 2015-06-22T01:38:21+05:30
 ---
 
 One of the few horror movies that I ended up watching in the past few years.
-It's mostly like any other horror movie where a family moves into a new home which unbenknownst to them is haunted.
-As time passes the haunting become more and more clearer which is when they decide to take help.
+It's mostly like any other horror movie where a family moves into a new home which unbeknownst to them is haunted.
+As time passes the haunting becomes obvious and they decide to take help.
 
 The movie is based on [Ed and Lorraine Warren](https://en.wikipedia.org/wiki/Ed_and_Lorraine_Warren) who are two so-called *demonologists* and their case of the [Smurl Family Haunting](https://en.wikipedia.org/wiki/Smurl_haunting).
 
