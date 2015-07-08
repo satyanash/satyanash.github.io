@@ -34,6 +34,7 @@ Other things that terminators do such as smiling, wearing clothes and memorizing
 These should never affect the primary objectives of a terminator.
 
 The movie very conveniently leaves a few loose ends to help with churning out more sequels:
+
  * We never find out who sent the good Schwarzenator to save Sarah Connor when she was 9 years old.
  * They also don't explain how the T-1000 ends up in the year 1984 instead of 1991.
  * Pops' CPU falls into the poly-alloy pool which upgrades him to T-1000 from the old T-800
