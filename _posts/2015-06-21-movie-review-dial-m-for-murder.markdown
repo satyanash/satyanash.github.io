@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "[Movie Review] Dial M for Murder"
+title: "[Movie Review] Dial M for Murder (1954)"
 date: 2015-06-21T12:56:21+05:30
 ---
+
+Rating: 3/5
 
 This was my third Hitchcock movie after *Vertigo* and *The Birds*.
 Was only able to really follow it till the intermission.
@@ -12,5 +14,3 @@ Things got especially confusing when multiple keys to different locks were intro
 Wouldnt mind seeing the movie again to get a better idea.
 
 Also managed to spot Hithcock's cameo in the reunion photograph on the wall.
-
-Rating: 3/5

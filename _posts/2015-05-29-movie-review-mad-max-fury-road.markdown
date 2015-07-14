@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "[Movie Review] Mad Max: Fury Road"
+title: "[Movie Review] Mad Max: Fury Road (2015)"
 date: 2015-05-29T00:02:37+05:30
 ---
+
+Rating: 4/5
 
 I had only seen glimpses of the original Mad Max movies on TV.
 The post apocalyptic setting never particularly interested me.
@@ -26,5 +28,3 @@ Another [post](http://humon.deviantart.com/journal/Mad-Max-femdom-explained-5358
 I also agree that the movie's hero(ine) is Furiosa and not Max himself. He just happened to be there at the wrong time.
 
 Excited for the two more planned Mad Max movies.
-
-Rating: 4/5

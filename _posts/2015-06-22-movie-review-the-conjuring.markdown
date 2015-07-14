@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "[Movie Review] The Conjuring"
+title: "[Movie Review] The Conjuring (2013)"
 date: 2015-06-22T01:38:21+05:30
 ---
+
+Rating: 3/5
 
 One of the few horror movies that I ended up watching in the past few years.
 It's mostly like any other horror movie where a family moves into a new home which unbeknownst to them is haunted.
@@ -14,5 +16,3 @@ One very ironic thing that I found was that in the movie Ed Warren hesitates a b
 He needs to provide proper **proof** that a given person is possessed and only then will the *Vatican* send in an authorized exorcist to expel the demon.
 
 Otherwise the movie takes itself seriously enough to be scary to most people and you can enjoy it if you let your guard down a bit.
-
-Rating: 3/5

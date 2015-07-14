@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "[Book Review] The Hobbit - J.R.R. Tolkien"
+title: "[Book Review] The Hobbit - J.R.R. Tolkien (1937)"
 date: 2015-05-02T00:00:00+05:30
 ---
+
+Rating: 3/5
 
 I've not seen the movies. I've not read the Lord of the Rings ( yet).
 This book is Bilbo's story of how he finds the ring and helps Thorin and Company take back the Lonely Mountain.
@@ -27,5 +29,3 @@ I also wonder why it's called *Five Armies* when we clearly have *six* armies ba
 6. Eagles
 
 I'm going to watch the movies soon. I hope they do a good job at portraying Smaug in all his glory. 
-
-Rating: 3/5
