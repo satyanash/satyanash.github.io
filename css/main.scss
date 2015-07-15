@@ -3,50 +3,155 @@
 ---
 @charset "utf-8";
 
+$base-font-family: 'Libre Baskerville', serif;
+$base-font-weight: 400;
+$strong-font-weight: 700;
 
+$google-chrome-blue: rgb(0,0,238);
+$cobalt-blue: #0047AB;
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$breakpoint-tablet: 1000px;
+$breakpoint-mobile: 640px;
 
-$spacing-unit:     30px;
+/**
+ * Basic styling
+ */
+body {
+    font-family: $base-font-family;
+    font-weight: $base-font-weight;
+}
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+strong {
+    font-weight: $strong-font-weight;
+}
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+a {
+	text-decoration:none;
+	color: $cobalt-blue;
+}
 
-// Width of the content area
-$content-width:    800px;
+h2 > a {
+	font-weight: $strong-font-weight;
+}
 
-$on-palm:          600px;
-$on-laptop:        800px;
+a:hover,a:focus,a:active {
+	text-decoration:underline;
+}
 
+.wrapper {
+	width:100%;
+	max-width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
 
+.site-header {
+	width:20%;
+	display:inline-block;
+	vertical-align:top;
 
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
+	border-right: dotted lightgray 1px;
+
+	.header-content > h1 > a {
+		color:inherit;
+	}
+
+	.brand-icon {
+
+		width:100%;
+
+		img {
+			width:100%;
+		}
+	}
+	
+	@media( max-width: $breakpoint-tablet) {
+		width:100%;
+
+		.brand-icon {
+			width: auto;
+			height: 200px;
+			display: inline-block;
+
+			img {
+				width: auto;
+				height: 100%;
+			}
+		}
+
+		.header-content {
+			display:inline-block;
+		}
+	}
+
+	@media( max-width: $breakpoint-mobile) {
+
+		.brand-icon {
+			width: auto;
+			height: 300px;
+			display: block;
+			text-align:center;
+
+			img {
+				width: auto;
+				height: 100%;
+			}
+		}
+
+		.header-content {
+			display:block;
+			text-align:center;
+
+			> nav ul {
+				padding:0px;
+
+				> li{
+					list-style-type:none;
+					display:inline-block;
+				}
+
+				> li:not(:first-child):before {
+					content: '|';
+				}
+			}
+		}
+	}
+}
+
+.content {
+	width:79%;
+	display:inline-block;
+	vertical-align:top;
+
+	padding-left:2%;
+	padding-right:2%;
+
+	box-sizing:border-box;
+
+	@media( max-width: $breakpoint-tablet) {
+		width:100%;
+	}
+}
+
+.post-item {
+	border-bottom: dotted lightgray 1px;
+
+	.post-meta {
+		color:gray;
+		float:right;
+	}
+}
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
     }
 }
 
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
