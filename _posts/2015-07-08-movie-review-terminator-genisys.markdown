@@ -4,8 +4,6 @@ title: "[Movie Review] Terminator: Genisys (2015)"
 date: 2015-07-08T02:18:10+05:30
 ---
 
-Rating: 3/5
-
 You're not going to be able to follow this movie till you've seen the first two terminator movies.
 Go do it.
 
@@ -42,3 +40,5 @@ The movie very conveniently leaves a few loose ends to help with churning out mo
  * Pops' CPU falls into the poly-alloy pool which upgrades him to T-1000 from the old T-800
 
 To be able to easily recall the timeline I would recommend making a chart similar to [this](https://xkcd.com/657/) and keeping it handy the next time you try to watch a Terminator movie.
+
+Rating: 3/5
