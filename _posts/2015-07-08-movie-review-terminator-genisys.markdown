@@ -7,13 +7,13 @@ date: 2015-07-08T02:18:10+05:30
 You're not going to be able to follow this movie till you've seen the first two terminator movies.
 Go do it.
 
-The movie spends most of it's time rewriting the stories from the the first two movies.
+The movie spends most of it's time rewriting the stories from the first two movies.
 
 Most of the movie is enjoyable except when the plot tries to explain why things are happening the way they are.
 You know something is fishy when Kyle Reese can remember an alternate past due to some nexus quantum time mumbo jumbo.
 
 The helicopter scene seems to be pointless and is used only as a vehicle to get all the characters to the Cyberdyne facility.
-Arnie AKA *Pops* jumping into the the second helicopter appears to offer no advantage whatsoever.
+Arnie AKA *Pops* jumping into the second helicopter appears to offer no advantage whatsoever.
 I think they just added it so they could use the *'I'll Be Back'* line.
 
 Another point I don't really like is when Pops is humanized to the point where he is not able to kill Sarah Connor by detonating the bombs himself, but is willing to let Kyle Reese do it.

@@ -13,8 +13,8 @@ Things become complicated when Van Meer is assassinated and there's nobody left 
 People seem to take Van Meer's death very lightly. Both ffolliott and Ms. Fisher are seen enjoying the car chase.
 I hardly think that anybody would be in such a good mood when not ten minutes ago one's chief guest was shot at point blank range.
 
-Later in the movie when ffolliott reveals his plans to catch Mr. Fisher, one can't help but wonder why did he not bother to atleast have a look inside the suspect windmill that Huntley spotted.
-Being a reporter, he should atleast take note of the instinct of his fellow.
+Later in the movie when ffolliott reveals his plans to catch Mr. Fisher, one can't help but wonder why did he not bother to at least have a look inside the suspect windmill that Huntley spotted.
+Being a reporter, he should at least take note of the instinct of his fellow.
 
 The plan that ffolliott and Huntley cook up seems pretty brain dead.
 Any plan where you don't want the kidnappee to know they've been kidnapped is bound to fail.

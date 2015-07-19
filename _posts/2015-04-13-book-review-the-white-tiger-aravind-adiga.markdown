@@ -10,6 +10,6 @@ One that requires a person to kill, bribe and lie through their way in the syste
 One where people are denied their chance to succeed in the world due to various societal factors.
 
 I like the book because it presents a different take on entrepreneurship and how an unassuming person can slowly be converted to a plotting serial killer.
-Beyong that, there's not much to take away from the book. It can get a bit depressing if you're faint-of-heart.
+Beyond that, there's not much to take away from the book. It can get a bit depressing if you're faint-of-heart.
 
 Rating: 3/5
