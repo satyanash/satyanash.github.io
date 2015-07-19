@@ -38,6 +38,21 @@ a:hover,a:focus,a:active {
 	text-decoration:underline;
 }
 
+blockquote {
+	font-style: italic;
+	font-size:110%;
+
+	padding-left: 10px;
+	padding-top:5px;
+	padding-bottom:5px;
+
+	margin-left: 10px;
+	margin-top:15px;
+	margin-bottom:15px;
+
+	border-left:solid gray 1px;
+}
+
 .wrapper {
 	width:100%;
 	max-width:1000px;
@@ -139,6 +154,15 @@ a:hover,a:focus,a:active {
 	.post-meta {
 		color:gray;
 		float:right;
+	}
+}
+
+.post {
+	.post-header {
+		.post-meta {
+			color:gray;
+			float:right;
+		}
 	}
 }
 
