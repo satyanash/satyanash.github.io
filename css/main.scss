@@ -21,6 +21,10 @@ body {
     font-weight: $base-font-weight;
 }
 
+p,li {
+    line-height: 28px;
+}
+
 strong {
     font-weight: $strong-font-weight;
 }
