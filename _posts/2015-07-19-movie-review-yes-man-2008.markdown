@@ -7,6 +7,8 @@ date: 2015-07-19T10:34:14+05:30
 A man is so set in his ways that nothing new happens for him.
 He then chances upon a weird programme that requires followers to answer 'Yes' to any question/favour asked of them.
 
+![Yes Man (2008);Yes Man (2008)](/img/movie-poster-yes-man.jpg)
+
 Once he starts the programme he goes through a very contrived set of situations that make him believe in the concept.
 Things that start happening to him are:
 

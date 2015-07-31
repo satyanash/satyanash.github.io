@@ -5,9 +5,9 @@ date: 2015-07-08T02:18:10+05:30
 ---
 
 You're not going to be able to follow this movie till you've seen the first two terminator movies.
-Go do it.
+Since this movie spends most of it's time rewriting the stories from the first two movies you should go do it.
 
-The movie spends most of it's time rewriting the stories from the first two movies.
+![Terminator: Genisys (2015);Terminator: Genisys (2015)](/img/movie-poster-terminator-genisys.jpg)
 
 Most of the movie is enjoyable except when the plot tries to explain why things are happening the way they are.
 You know something is fishy when Kyle Reese can remember an alternate past due to some nexus quantum time mumbo jumbo.

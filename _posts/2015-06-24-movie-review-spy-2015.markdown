@@ -7,6 +7,8 @@ date: 2015-06-24T23:38:33+05:30
 A run of the mill spy movie where a support agent is moved on field after her partner is presumed dead.
 She performs daring stunts which are obviously not possible for people of her size and this is supposed to be funny to the audience.
 
+![Spy (2015);Spy (2015)](/img/movie-poster-spy-2015.jpg)
+
 Jason Statham plays a pointless role where he blathers on and on about his obviously fake feats on the field.
 This too is supposed to be funny but it gets boring quite fast.
 

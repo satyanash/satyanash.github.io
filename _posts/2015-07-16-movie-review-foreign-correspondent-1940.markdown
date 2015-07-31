@@ -7,6 +7,8 @@ date: 2015-07-16T00:11:56+05:30
 Another day, another Hitchcock movie. I intend to slowly wade through all of them.
 This one is a supposed thriller where an American reporter is assigned as the *foreign correspondent* in Europe to cover the events that lead up to a fictionalised World War II.
 
+![Foreign Correspondent (1940);Foreign Correspondent (1940)](/img/movie-poster-foreign-correspondent.jpg)
+
 The plot revolves around a peace activist Van Meer who along with a few others is actively trying to prevent the war from happening.
 Things become complicated when Van Meer is assassinated and there's nobody left to take his place.
 

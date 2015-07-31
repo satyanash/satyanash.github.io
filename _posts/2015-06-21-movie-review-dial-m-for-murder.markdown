@@ -11,6 +11,8 @@ But I think that's mostly because it was 0400 in the morning.
 Things got especially confusing when multiple keys to different locks were introduced.
 Wouldn't mind seeing the movie again to get a better idea.
 
+![Dial M For Murder (1954);Dial M For Murder (1954)](/img/movie-poster-dial-m-for-murder.jpg)
+
 Also managed to spot Hitchcock's cameo in the reunion photograph on the wall.
 
 Rating: 3/5

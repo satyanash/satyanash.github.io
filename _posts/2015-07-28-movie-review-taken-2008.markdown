@@ -8,6 +8,8 @@ I'd heard a lot of good things about this movie.
 I happened to watch it on TV even though that is not my preferred medium.
 The movie is quite short as Bryan Mills must rescue his daughter within a 96 hour window.
 
+![Taken (2008);Taken (2008)](/img/movie-poster-taken-2008.jpg)
+
 The fight sequences keep you involved and no time is wasted on bullshit.
 Things keep flowing at a very uniform pace.
 

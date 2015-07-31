@@ -7,6 +7,8 @@ date: 2015-07-30T12:46:00+05:30
 This movie has a very interesting plot where professional photographer L.B. "Jeff" Jeffries is confined to his apartment due to a broken leg.
 To pass time, he takes to peeping into the lives of his various neighbors through his rear window.
 
+![Rear Window (1940);Rear Window (1940)](/img/movie-poster-rear-window.jpg)
+
 The movie's visual style is very different from what we're generally used to and some of the ingredients used are very effective.
 The whole movie takes place in Jeff's room with an open view of the apartment complex courtyard.
 

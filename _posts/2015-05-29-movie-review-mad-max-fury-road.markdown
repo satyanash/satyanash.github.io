@@ -8,6 +8,8 @@ I had only seen glimpses of the original Mad Max movies on TV.
 The post apocalyptic setting never particularly interested me.
 I still ended up in the theatre when *Fury Road* was released.
 
+![Mad Max: Fury Road (2015);Mad Max: Fury Road (2015)](/img/movie-poster-mad-max-fury-road.jpg)
+
 Aaand I loved it.
 
 The movie is a thrilling ride that never lets you rest.

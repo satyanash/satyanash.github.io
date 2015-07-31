@@ -168,7 +168,21 @@ blockquote {
 			float:right;
 		}
 	}
-//	.post-content {
+	.post-content {
+		img {
+			max-height:350px;
+			display:block;
+			margin-left:auto;
+			margin-right:auto;
+			float:right;
+			@media( max-width: $breakpoint-mobile) {
+				float:none;
+				max-width:60%;
+				max-height:none;
+			}
+
+			padding:10px;
+		}
 //		> p:first-child:first-letter {
 //			font-size:500%;
 //			float:left;
@@ -177,7 +191,7 @@ blockquote {
 //			border: solid black 2px;
 //			border-radius:5px;
 //		}
-//	}
+	}
 }
 
 /**

@@ -7,6 +7,8 @@ date: 2015-05-02T00:00:00+05:30
 I've not seen the movies. I've not read the Lord of the Rings ( yet).
 This book is Bilbo's story of how he finds the ring and helps Thorin and Company take back the Lonely Mountain.
 
+![The Hobbit (1937);The Hobbit (1937)](/img/book-cover-the-hobbit.jpg)
+
 The fast death of Smaug comes as a surprise because the story builds up to it for quite a while.
 As you read the book you feel that it is going to be about the dragon at the end.
 You expect an epic dragon fight and all you get is the dragon shot down by a single well-aimed arrow.
