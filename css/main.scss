@@ -192,6 +192,27 @@ blockquote {
 //			border-radius:5px;
 //		}
 	}
+	.post-footer {
+		border-top: dotted lightgray 1px;
+		a {
+			color:black;
+		}
+		.next,.prev {
+			text-decoration:none;
+			.sym {
+				font-size:2em;
+				color:gray;
+			}
+			max-width:40%;
+		}
+		.next {
+			float:left;
+		}
+		.prev {
+			text-align:right;
+			float:right;
+		}
+	}
 }
 
 /**

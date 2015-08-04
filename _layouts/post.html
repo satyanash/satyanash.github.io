@@ -11,5 +11,22 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+  <footer class="post-footer">
+    <p>
+    {% if page.next.url %} 
+    <div class="next">
+      <a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>
+      <br>
+      <span class="sym" title="{{page.next.title}}">&xlarr;</span>
+    </div>
+    {% endif %} 
+    {% if page.previous.url %} 
+    <div class="prev">
+      <a href="{{page.previous.url}}" title="{{page.previous.title}}">{{page.previous.title}}</a>
+      <br>
+      <span class="sym" title="{{page.previous.title}}">&xrarr;</span>
+    </div>
+    {% endif %} 
+    </p>
+  </footer>
 </div>
