@@ -37,6 +37,7 @@ The indicative color of the socket also does not change back to the normal 'blue
 * Gait recognition as a security measure makes an appearance in order to make the Moroccan facility look state-of-the-art.
 * Masks make a return as important tools used to get into places otherwise inaccessible to agents.
 The quality and speed of mask manufacturing in the movie is directly tied to improving CGI technology, increasing movie budgets and script writer's liberty.
+* The bikes featured in the chase scenes are [BMW S1000RR](https://en.wikipedia.org/wiki/BMW_S1000RR) which feature asymmetric design. More details can be found in [this YouTube video](https://www.youtube.com/watch?v=N9SIS4izLqE)
 
 The knife fight between Ilsa Faust and the *Bone Doctor* was a satsifying and well choreographed one. 
 It's not often you see well matched opponents of opposite sexes fighting each other in movies.
