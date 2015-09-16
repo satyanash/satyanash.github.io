@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "[Movie Review] The Insider (1999)"
+date: 2015-09-16T13:09:33+05:30
 ---
 
-The movie is based on real life events involving tobacco whistle-blower [Jeffrey Wigand](https://en.wikipedia.org/wiki/Jeffrey_Wigand)'s controversial [60 Minutes](https://en.wikipedia.org/wiki/60_Minutes#Brown_.26_Williamson) interview about Brown and Williamson's tobacco manufacturing malpractices.
+The movie is based on real life events involving tobacco whistle-blower [Jeffrey Wigand](https://en.wikipedia.org/wiki/Jeffrey_Wigand)'s controversial *[60 Minutes](https://en.wikipedia.org/wiki/60_Minutes#Brown_.26_Williamson)* interview about Brown and Williamson's tobacco manufacturing malpractices.
 
 ![The Insider (1999)](/img/movie-poster-the-insider-1999.jpg 'The Insider (1999)')
 
