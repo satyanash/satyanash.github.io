@@ -13,7 +13,7 @@ It is however never clear who the hitman actually is, till halfway in the movie.
 
 The story follows the promotion of FBI agent Kate Macer who is tired of cleaning after bombs and druggies and wants to make a real dent in the cartel's operations. 
 She is transferred to El Paso, Texas where she must work with CIA's Matt Grover to perform various drug related busts and reconnaissance missions.
-They're also accompanied by Alejandro Gillick who is a consultant to the USA government regarding the cartel.
+They're also accompanied by Alejandro Gillick who is a supposed 'drug cartel' consultant to the USA government.
 
 The movie begins very well, taking you through the reality of the drug trade.
 After the intermission, the script itself is not sure who's story it wants to tell.
@@ -27,8 +27,8 @@ The cartel boss has such little screen time that it's difficult to feel the impo
 The corrupt Mexican policeman Silvio is shown in interleaved shots to create suspense but is then killed off as a mere pawn.
 Kate's partner Reggie plays a substance-less role as the token black guy.
 
-This is a really poor attempt at a suspense movie.
-It's never clear to what point is the film heading.
-Character devlopment and their backstories are sorely missing and create an overall hollow experience.
+This is a really poor attempt at a suspense movie as it's never clear where the film is heading.
+Character development and their backstories are sorely missing and create an overall hollow experience.
+An overrated film of which they're planning a sequel.
 
 Rating: 2/5 ( Bad)
