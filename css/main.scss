@@ -174,7 +174,7 @@ blockquote {
 			display:block;
 			margin-left:auto;
 			margin-right:auto;
-			float:right;
+			//float:right;
 			@media( max-width: $breakpoint-mobile) {
 				float:none;
 				max-width:60%;
