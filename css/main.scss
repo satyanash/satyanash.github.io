@@ -171,13 +171,14 @@ blockquote {
 	.post-content {
 		img {
 			max-height:350px;
+			max-width:100%;
 			display:block;
 			margin-left:auto;
 			margin-right:auto;
 			//float:right;
 			@media( max-width: $breakpoint-mobile) {
 				float:none;
-				max-width:60%;
+				max-width:100%;
 				max-height:none;
 			}
 
