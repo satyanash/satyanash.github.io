@@ -5,12 +5,12 @@ date: 2016-03-01T14:21:53+05:30
 ---
 
 The word **Middleware** is an ambiguous term that means different things to different people.
+We'll try to find out what 'Middleware' means in commonly used frameworks and platforms for web development and how they are implemented.
 
 * According to Wikipedia, middlewares are defined as: *computer software that provides services to software applications beyond those available from the operating system.* 
 * Enterprisy definitions for the word 'Middleware' are scattered across the web, each more vague than the previous.
 * In most popular modern web development frameworks, a middleware is a *hook* into the HTTP request-response cycle allowing the execution of a common piece of code before/after a request is processed.
 
-We'll see what 'Middleware' means in commonly used frameworks and platforms for web development and how they are implemented.
 Do note that the code samples are intended only for implementation comparison in various languages.
 They may not be ideal for production use and may skirt some best practices.
 
