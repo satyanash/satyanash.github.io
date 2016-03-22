@@ -4,18 +4,18 @@ title: "[Movie Review] Big Hero 6 (2014)"
 date: 2016-03-20T23:31:33+05:30
 ---
 
-Even though the movie is called 'Big Hero 6', the story is about on Hiro and his brother's cute and lovable healthcare robot: Baymax.
-The remaining time is unevenly distributed between the remaining four members of the team.
+Even though the movie is called 'Big Hero 6', the story is about a 14 year old Hiro and his brother's cute and lovable healthcare robot: Baymax.
+The remaining time is unevenly distributed between the other four members of the team.
 
 ![Big Hero 6 (2014)](/img/movie-poster-big-hero-6-2014.jpg 'Big Hero 6 (2014)')
 
-The team is an awefully typical one where you have the main protagonist, a black dude, a tomboy, a nerd and a crazy one.
+The team is an awfully typical one where you have the main protagonist, a black dude, a tomboy, a nerd and a crazy one.
 Sticking to the stereotypes is what makes the team completely forgettable.
 The likelihood of you finding a kid who is a fan of 'Fred' or 'Honey' is guaranteed to be negligible.
 Most kids'll probably forget this movie for the generic superhero flick it is.
 
-Baymax is intentionally adorable and makes for a nice viewing especially when you're depressed or have kids and toddlers running around you.
-His robotic capabilities don't seem far removed from where we are in healthcare and biped automation ( think Boston Dynamics).
+Baymax is intentionally adorable and makes for an excellent viewing especially when you're depressed or have hyper kids and toddlers to satiate.
+His robotic capabilities don't seem far removed from where we currently are in healthcare and biped automation ( think Boston Dynamics).
 I noticed a few inconsistencies though:
 
 * Hiro's brother Tadashi mentions that he's coded over 10,000 medical procedures into Baymax.
