@@ -29,13 +29,10 @@ The other team members are completely helpless without Hiro and Baymax: not exac
 They could've entirely removed the team and used the extra time for much better things like:
 
 * Tadashi's relationship with Hiro.
-* Callaghan's actual contribution to the robotics community
-* Callaghan's actual improvements over Hiro's mircobots
+* Callaghan's  contribution to the robotics community and improvements over Hiro's mircobots
+* Krei's teleportation project and the limbo where the original Baymax is left behind
 
-The movie also portrays older, more capable kids as completely helpless in front of a 14 year old.
-This feature can be attributed due the to the apparent target demographic of kids.
-
-This story also had a real shot at introducing hardware hacking and the hacker culture in general to a large and young audience.
+The story also had a real shot at introducing hardware hacking and the hacker culture in general to a large and young audience.
 But instead it ends up belittling the amount of effort required to come up with the kind of technology portrayed in the film.
 
 The airborne wind turbines and the hybrid city of San Fransokyo form the backdrop of quite a bit of cool artwork during the credits:
