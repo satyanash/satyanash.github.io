@@ -111,10 +111,6 @@ In the end, I _am_ taking the middle road, on a case-by-case basis.
 ## Anti Fountainhead
 
 Maybe there is scope for a book that represents both views while showing how a *Second-Hander* would come out at the top.
-It'd have to be in excruciating detail in order to not offend and repel any semi-closed minded people who'd happen to read this anti-fountainhead.
-It'd also have to employ similar tactics, contrived situations and plot conveniences.
-All in favour of the anti-Roark.
-
 This may also be due to the fact that I am reading the book almost 73 years after it was released.
 I may have the advantage of seeing how communism, socialism and democracies have turned out.
 I wonder how Miss Rand would've changed her views in respect to this new world.
