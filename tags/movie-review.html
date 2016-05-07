@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>Movie Reviews</h1>
+
+{% for post in site.posts %}
+	{% if post.tags contains "movie-review" %}
+		{% include post-item.html post=post %}
+	{% endif %}
+{% endfor %}
