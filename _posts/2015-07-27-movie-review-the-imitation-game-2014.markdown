@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] The Imitation Game (2014)"
 date: 2015-07-27T17:36:36+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 This movie is a [historically inaccurate](https://en.wikipedia.org/wiki/The_Imitation_Game#Accuracy) account of [Turing](http://en.wikipedia.org/wiki/Alan_Turing) and how he cracked the Enigma.

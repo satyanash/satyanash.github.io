@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] Psycho (1960)"
 date: 2015-07-31T18:37:59+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 I'd first heard of Psycho when I read that there was a tribute to it in Pulp Fiction.

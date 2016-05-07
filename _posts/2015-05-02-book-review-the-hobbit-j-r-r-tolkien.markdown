@@ -3,7 +3,7 @@ layout: post
 title: "[Book Review] The Hobbit - J.R.R. Tolkien (1937)"
 date: 2015-05-02T00:00:00+05:30
 spoilers: true
-tags: books, reviews
+tags: book-review
 ---
 
 I've not seen the movies. I've not read the Lord of the Rings ( yet).

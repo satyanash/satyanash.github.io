@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] Dial M for Murder (1954)"
 date: 2015-06-21T12:56:21+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 This was my third Hitchcock movie after *Vertigo* and *The Birds*.

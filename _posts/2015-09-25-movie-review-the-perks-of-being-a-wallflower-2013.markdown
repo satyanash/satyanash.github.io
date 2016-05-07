@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] The Perks of Being a Wallflower (2013)"
 date: 2015-09-25T22:14:18+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 This is a movie adaptation of the book 'The Perks of Being a Wallflower ( 1999)". It is about high school, coming-of-age and finding what you love in the process.

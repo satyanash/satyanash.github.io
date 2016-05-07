@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] Spy (2015)"
 date: 2015-06-24T23:38:33+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 A run of the mill spy movie where a support agent is moved on field after her partner is presumed dead.

@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] Star Wars: The Force Awakens (2015)"
 date: 2016-01-18T16:39:34+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 I am not a major Star Wars fan, but I had seen all of the first six movies in the order they were released.

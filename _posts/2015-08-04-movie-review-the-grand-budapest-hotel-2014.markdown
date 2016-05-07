@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] The Grand Budapest Hotel (2014)"
 date: 2015-08-04T12:04:09+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 This is a tongue-in-cheek story of the concierge and lobby boy of The Grand Budapest Hotel as narrated to an author.

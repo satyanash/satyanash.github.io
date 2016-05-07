@@ -2,7 +2,7 @@
 layout: post
 title: "[Book Review] The White Tiger - Aravind Adiga (2008)"
 date: 2015-04-13T00:00:00+05:30
-tags: books, reviews
+tags: book-review
 ---
 
 This is an interesting book.

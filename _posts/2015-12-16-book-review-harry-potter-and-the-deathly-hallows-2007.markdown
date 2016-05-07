@@ -3,7 +3,7 @@ layout: post
 title: "[Book Review] Harry Potter and the Deathly Hallows (2007)"
 date: 2015-12-16T02:00:44+05:30
 spoilers: true
-tags: books, reviews
+tags: book-review
 ---
 
 *Bravo*! That's all I have to say to Rowling. A fitting ending to a fantastic series.

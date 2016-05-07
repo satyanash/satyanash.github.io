@@ -2,6 +2,7 @@
 layout: post
 title: "A Note on Web Middlewares"
 date: 2016-03-01T14:21:53+05:30
+tags: software
 ---
 
 The word **Middleware** is an ambiguous term that means different things to different people.

@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] Spectre (2015)"
 date: 2015-12-14T21:33:39+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 James Bond, the spy with a license to kill is back with his effortless charm and worldy vices.

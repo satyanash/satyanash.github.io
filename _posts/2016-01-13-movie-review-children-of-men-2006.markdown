@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] Children of Men (2006)"
 date: 2016-01-13T14:02:59+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 This is a gem of a sci-fi movie released in 2006 and takes place in the year 2027 where the world is struggling with mass infertility and no new child has been born for 18 years in the whole world.

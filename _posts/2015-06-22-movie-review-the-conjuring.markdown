@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] The Conjuring (2013)"
 date: 2015-06-22T01:38:21+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 One of the few horror movies that I ended up watching in the past few years.

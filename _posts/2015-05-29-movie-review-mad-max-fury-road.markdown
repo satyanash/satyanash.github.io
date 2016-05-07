@@ -2,7 +2,7 @@
 layout: post
 title: "[Movie Review] Mad Max: Fury Road (2015)"
 date: 2015-05-29T00:02:37+05:30
-tags: movies, reviews
+tags: movie-review
 ---
 
 I had only seen glimpses of the original Mad Max movies on TV.

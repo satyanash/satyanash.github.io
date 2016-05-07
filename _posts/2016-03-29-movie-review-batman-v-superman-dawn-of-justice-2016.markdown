@@ -3,7 +3,7 @@ layout: post
 title: "[Movie Review] Batman v Superman: Dawn of Justice (2016)"
 date: 2016-03-29T12:00:56+05:30
 spoilers: true
-tags: movies, reviews
+tags: movie-review
 ---
 
 The central theme of this movie is the idea of an immortal God versus the intelligent human.

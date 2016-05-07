@@ -2,6 +2,7 @@
 layout: post
 title: "Notes on the Rating System"
 date: 2015-07-27T18:56:08+05:30
+tags: general
 ---
 
 I wanted to record a few thoughts on the rating system that I am using for movies and books.

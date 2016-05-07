@@ -1,0 +1,8 @@
+
+<div class="post-item">
+	<h2>
+		<a class="post-link" href="{{ include.post.url | prepend: site.baseurl }}">{{ include.post.title }}</a>
+	</h2>
+	{{ include.post.excerpt }}
+	{% include post-meta.html post=include.post %}
+</div>

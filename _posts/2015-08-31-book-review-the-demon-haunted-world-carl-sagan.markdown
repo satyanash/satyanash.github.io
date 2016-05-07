@@ -2,7 +2,7 @@
 layout: post
 title: "[Book Review] The Demon-Haunted World - Carl Sagan"
 date: 2015-08-31T02:26:46+05:30
-tags: books, reviews
+tags: book-review
 ---
 
 An excellent book for people who were recently introduced to skeptical thinking and want to understand the idea further.

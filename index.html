@@ -4,21 +4,7 @@ layout: default
 
 
 {% for post in site.posts %}
-<div class="post-item">
-	<h2>
-		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	</h2>
-	{{ post.excerpt }}
-	    <p class="post-meta">
-	    <small>
-		{{ post.date | date: "%b %-d, %Y" }}
-		{% if post.author %} • {{ post.author }}{% endif %}
-		{% if post.tags != empty %} • filed under {{ post.tags }}{% endif %}
-		{% if post.meta %} • {{ post.meta }}{% endif %}
-		{% if post.spoilers %} • aerodynamic {% endif %}
-	    </small>
-	    </p>
-</div>
+	{% include post-item.html post=post %}
 {% endfor %}
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

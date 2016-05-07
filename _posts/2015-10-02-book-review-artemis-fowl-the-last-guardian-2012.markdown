@@ -3,7 +3,7 @@ layout: post
 title: "[Book Review] Artemis Fowl: The Last Guardian (2012)"
 date: 2015-10-02T23:01:27+05:30
 spoilers: true
-tags: books, reviews
+tags: book-review
 ---
 
 This is the last book in the series of eight and Eoin Colfer has promised to conclude the Artemis Fowl saga. I was quite excited when I heard that the serie had finally ended. This has been one of my favorite series and I have been hooked since the first book.
