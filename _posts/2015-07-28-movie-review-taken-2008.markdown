@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Taken (2008)"
 date: 2015-07-28T16:28:48+05:30
+tags: movies, reviews
 ---
 
 I'd heard a lot of good things about this movie.

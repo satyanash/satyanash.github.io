@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Thor: The Dark World (2013)"
 date: 2015-11-27T01:56:22+05:30
+tags: movies, reviews
 ---
 
 The second Thor movie that takes place after the events of The Avengers appears to be a pure milking scheme for Marvel Studios and friends.

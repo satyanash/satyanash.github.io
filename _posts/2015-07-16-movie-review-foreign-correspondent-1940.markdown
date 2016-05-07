@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Foreign Correspondent (1940)"
 date: 2015-07-16T00:11:56+05:30
+tags: movies, reviews
 ---
 
 Another day, another Hitchcock movie. I intend to slowly wade through all of them.

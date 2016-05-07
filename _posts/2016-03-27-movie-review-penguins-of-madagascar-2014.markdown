@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Penguins of Madagascar (2014)"
 date: 2016-03-27T00:53:56+05:30
+tags: movies, reviews
 ---
 
 This is the kind of movie that you'd expect the bean counters at Disney to readily fund given that the public adores the cute penguins.

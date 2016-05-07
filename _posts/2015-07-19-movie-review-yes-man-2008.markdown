@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Yes Man (2008)"
 date: 2015-07-19T10:34:14+05:30
+tags: movies, reviews
 ---
 
 A man is so set in his ways that nothing new happens for him.

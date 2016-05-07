@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] The Revenant (2015)"
 date: 2016-03-02T04:07:36+05:30
+tags: movies, reviews
 ---
 
 A movie about how a man comes back from a near death experience and exacts revenge on his deserter for killing his son.

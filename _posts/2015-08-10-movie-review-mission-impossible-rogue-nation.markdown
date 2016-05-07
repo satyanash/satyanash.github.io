@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Mission: Impossible - Rogue Nation"
 date: 2015-08-10T16:59:15+05:30
+tags: movies, reviews
 ---
 
 If mindless henchman bumping, aged Scientology believers performing average stunts coupled with eyebrow raising twists are your cup of tea then you're going to like this movie.

@@ -2,6 +2,8 @@
 layout: post
 title: "[Book Review] Gone Girl - Gillian Flynn (2012)"
 date: 2015-10-23T00:13:45+05:30
+spoilers: true
+tags: books, reviews
 ---
 
 Marriage. That's what this book is about. Long term relationships between a husband and a wife.

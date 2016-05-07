@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Deadpool (2016)"
 date: 2016-02-26T20:20:01+05:30
+tags: movies, reviews
 ---
 
 This is a <s>superhero</s> movie about one Wade Wilson, who's alter ego is Deadpool.

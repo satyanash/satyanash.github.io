@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Rear Window (1954)"
 date: 2015-07-30T12:46:00+05:30
+tags: movies, reviews
 ---
 
 This movie has a very interesting plot where professional photographer L.B. "Jeff" Jeffries is confined to his apartment due to a broken leg.

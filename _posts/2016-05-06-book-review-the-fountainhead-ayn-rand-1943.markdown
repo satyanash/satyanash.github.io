@@ -2,6 +2,8 @@
 layout: post
 title: "[Book Review] The Fountainhead - Ayn Rand (1943)"
 date: 2016-05-06T15:21:19+05:30
+spoilers: true
+tags: books, reviews
 ---
 
 It's almost impossible to have not heard enthusiastic mentions of *The Fountainhead* before you start it.

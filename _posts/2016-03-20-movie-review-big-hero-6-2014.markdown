@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Big Hero 6 (2014)"
 date: 2016-03-20T23:31:33+05:30
+tags: movies, reviews
 ---
 
 Even though the movie is called 'Big Hero 6', the story is about a 14 year old Hiro and his brother's cute and lovable healthcare robot: Baymax.

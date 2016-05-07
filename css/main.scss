@@ -157,7 +157,7 @@ blockquote {
 
 	.post-meta {
 		color:gray;
-		float:right;
+		display:block;
 	}
 }
 
@@ -165,7 +165,7 @@ blockquote {
 	.post-header {
 		.post-meta {
 			color:gray;
-			float:right;
+			display:block;
 		}
 	}
 	.post-content {

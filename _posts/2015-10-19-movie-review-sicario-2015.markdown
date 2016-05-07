@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Sicario (2015)"
 date: 2015-10-19T01:22:22+05:30
+tags: movies, reviews
 ---
 
 This is a movie about the drug cartels that operate around the Mexico-USA border near Texas and Arizona.

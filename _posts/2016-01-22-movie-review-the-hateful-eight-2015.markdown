@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] The Hateful Eight (2015)"
 date: 2016-01-22T11:13:13+05:30
+tags: movies, reviews
 ---
 
 This is Quentin Tarantino's eighth film.

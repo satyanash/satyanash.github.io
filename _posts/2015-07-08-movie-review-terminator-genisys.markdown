@@ -2,6 +2,7 @@
 layout: post
 title: "[Movie Review] Terminator: Genisys (2015)"
 date: 2015-07-08T02:18:10+05:30
+tags: movies, reviews
 ---
 
 You're not going to be able to follow this movie till you've seen the first two terminator movies.
