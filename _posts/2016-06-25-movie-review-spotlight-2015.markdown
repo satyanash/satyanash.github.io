@@ -3,7 +3,7 @@ layout: post
 title: "[Movie Review] Spotlight (2015)"
 date: 2016-06-25T20:18:10+05:30
 tags: movie-review
-spoilters: true
+spoilers: true
 ---
 
 I don't know what these kinds of movies are called but they sure do make investigative journalism look like an intriguing job.
