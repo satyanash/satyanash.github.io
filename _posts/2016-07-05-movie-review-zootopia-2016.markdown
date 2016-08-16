@@ -6,7 +6,7 @@ tags: movie-review
 spoilers: true
 ---
 
-On the cover, Zootopia may appear to be a lazy play of words, a rehashed cobbling of a buddy cop story with added anthropomorphic animals: all the makings of an average film. 
+On the cover, Zootopia may appear to be a lazy play of words, a rehashed cobbling of a buddy cop story with added anthropomorphic animals; all the makings of an average film.
 In reality, it is all that along with an intelligently written satire with pop culture references that keeps both the kids and grownups engaged throughout the film.
 
 ![Zootopia (2016)](/img/movie-poster-zootopia-2016.jpg 'Zootopia (2016)')

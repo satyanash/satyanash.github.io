@@ -34,7 +34,7 @@ The other two stories are much darker and serve to highlight the plight of the a
 
 ## Coffee and _shieet_
 
-While investigating the drug trade that  his brother, a policeman teams up with a doctor(_ess?_) in an attempt to singlehandedly bust the drug trade.
+While investigating the drug trade that makes a victim of his brother, a policeman teams up with a doctor(_ess?_) in an attempt to singlehandedly bust the drug trade.
 As they're busy collecting evidence and promoting the Coffee Day company, a romantic spark is generated.
 This was probably done for the one romantic song and is clearly inorganic.
 The duo get surprisingly far in their investigation, but in the end filmy drama takes over and the doctor has to die.
