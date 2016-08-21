@@ -3,7 +3,6 @@ layout: post
 title: "[Movie Review] Dirty Grandpa (2016)"
 date: 2016-08-15T01:57:01+05:30
 tags: movie-review
-spoilers: true
 language: english
 ---
 
