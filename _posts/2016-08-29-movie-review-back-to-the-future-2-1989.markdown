@@ -19,7 +19,7 @@ The time travel map is way more complicated and I'm sure the audience must've ha
 The Doc tries his best to explain the idea with the help of a blackboard inside a dilapidated garage, but I'm not sure if it helps.
 The fact that the story relies entirely on going back to the past that was altered in the first movie, it can leave you a bit confused.
 
-Surprisingly some adult themes are also in the botched present that the protagonists return to from the future.
+Surprisingly some adult themes are also explored in the botched present that the protagonists return to from the future.
 George McFly is dead and Marty's mother, Lorraine marries Biff after running out of money,
 Biff also coaxes her to undergo surgery to augment her features.
 He is also seen to be flagrantly cheating on his wife when Marty interrupts him inside the bathroom.
@@ -31,6 +31,6 @@ Lorraine ends up marrying Biff in the alternate present as if she literally had 
 The younger Biff back in 1955 casually harrasses a younger Lorraine on the street while others stroll by.
 This is very telling of the kind of stereotypes the story banks on to make it work.
 
-A valiant effort at a sequel; the movie still doesn't manage to improve upon the effect of the first movie.
+A valiant effort at a sequel, the movie still doesn't manage to improve upon the effect of the first movie.
 
 Rating: 4/5 (Good)
