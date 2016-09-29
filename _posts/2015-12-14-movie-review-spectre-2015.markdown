@@ -5,7 +5,7 @@ date: 2015-12-14T21:33:39+05:30
 tags: movie-review
 ---
 
-James Bond, the spy with a license to kill is back with his effortless charm and worldy vices.
+James Bond, the spy with a license to kill is back with his effortless charm and worldly vices.
 As an anachronistic spy, operating on intuition, trashing costly tech and discarding useful intel: James Bond is dead on arrival.
 Running blindly into the field is something that no spy worth his money would do.
 
