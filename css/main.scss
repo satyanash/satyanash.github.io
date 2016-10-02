@@ -10,8 +10,10 @@ $strong-font-weight: 700;
 $google-chrome-blue: rgb(0,0,238);
 $cobalt-blue: #0047AB;
 
-$breakpoint-tablet: 1000px;
+$breakpoint-tablet: 1200px;
 $breakpoint-mobile: 640px;
+
+$border-style: dotted lightgray 1px;
 
 /**
  * Basic styling
@@ -69,9 +71,9 @@ blockquote {
 	display:inline-block;
 	vertical-align:top;
 
-	border-right: dotted lightgray 1px;
+	border-right: $border-style;
 
-	.header-content > h1 > a {
+	h1 > a {
 		color:inherit;
 	}
 
@@ -86,24 +88,9 @@ blockquote {
 	
 	@media( max-width: $breakpoint-tablet) {
 		width:100%;
-
-		.brand-icon {
-			width: auto;
-			height: 200px;
-			display: inline-block;
-
-			img {
-				width: auto;
-				height: 100%;
-			}
-		}
-
-		.header-content {
-			display:inline-block;
-		}
-	}
-
-	@media( max-width: $breakpoint-mobile) {
+		display:block;
+		text-align:center;
+		border:none;
 
 		.brand-icon {
 			width: auto;
@@ -117,21 +104,16 @@ blockquote {
 			}
 		}
 
-		.header-content {
-			display:block;
-			text-align:center;
+		> nav ul {
+			padding:0px;
 
-			> nav ul {
-				padding:0px;
+			> li{
+				list-style-type:none;
+				display:inline-block;
+			}
 
-				> li{
-					list-style-type:none;
-					display:inline-block;
-				}
-
-				> li:not(:first-child):before {
-					content: '|';
-				}
+			> li:not(:first-child):before {
+				content: '|';
 			}
 		}
 	}
@@ -153,7 +135,7 @@ blockquote {
 }
 
 .post-item {
-	border-bottom: dotted lightgray 1px;
+	border-bottom: $border-style;
 
 	.post-meta {
 		color:gray;
@@ -176,7 +158,7 @@ blockquote {
 			margin-left:auto;
 			margin-right:auto;
 			//float:right;
-			@media( max-width: $breakpoint-mobile) {
+			@media( max-width: $breakpoint-tablet) {
 				float:none;
 				max-width:100%;
 				max-height:none;
@@ -194,7 +176,7 @@ blockquote {
 //		}
 	}
 	.post-footer {
-		border-top: dotted lightgray 1px;
+		border-top: $border-style;
 		a {
 			color:black;
 		}
@@ -216,6 +198,22 @@ blockquote {
 	}
 }
 
+.site-footer {
+	width:100%;
+	//border-top: $border-style;
+	color: gray;
+
+	ul {
+		width:25%;
+		list-style-type:none;
+		display:inline-block;
+	}
+
+	> p {
+		text-align:center;
+	}
+}
+
 /**
  * Icons
  */
@@ -228,4 +226,3 @@ blockquote {
         vertical-align: middle;
     }
 }
-
