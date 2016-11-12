@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Movie Review] Doctor Strange (2016)"
-date: 2016-11-13T03:43:00+05:30
+date: 2016-11-12T13:43:00+05:30
 tags: movie-review
 spoilers: true
 ---
