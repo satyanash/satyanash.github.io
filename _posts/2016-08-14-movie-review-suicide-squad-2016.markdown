@@ -15,7 +15,7 @@ The movie takes place after Superman is (not?) dead and Batman is in the process
 
 The movie has an arcade-y feel in the beginning, which I am totally cool with.
 But then they completely forget about it after the first five minutes which just makes it look like a gimmick.
-In keeping with it's inconsistency, it plays fast and loose with character introductions, only formally introducing about four of the eight members eight members of the squad. 
+In keeping with it's inconsistency, it plays fast and loose with character introductions, only formally introducing about four of the eight members of the squad. 
 The others are then added and removed on an ad-hoc basis, leaving you to decipher what just happened.
 
 ## make it and then break it

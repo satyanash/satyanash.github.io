@@ -50,7 +50,7 @@ Particularly interesting is her struggle of trying to wean herself off of the dr
 Her story is clearly the reason why the movie is so polarizing and I suppose there is no real way to validate if it is an accurate portrayal of the condition in Punjab.
 In either case, is it a story worth telling? I think it is.
 
-When spoiling onself with Bollywood produce, one should try to stick to movies that deviate from the commercially available formula.
+When spoiling oneself with Bollywood produce, one should try to stick to movies that deviate from the commercially available formula.
 It helps in reminding you that there's hope.
 
 Rating: 4/5 (Good)
