@@ -3,6 +3,7 @@ layout: post
 title: "[Movie Review] Boss Baby (2017)"
 date: 2017-04-08T21:40:45+05:30
 tags: movie-review
+spoilers: true
 ---
 
 Cute things. This is not Hollywood's first attempt to pitch two species against each other.

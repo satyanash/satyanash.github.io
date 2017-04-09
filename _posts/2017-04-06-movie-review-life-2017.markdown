@@ -3,6 +3,7 @@ layout: post
 title: "[Movie Review] Life (2017)"
 date: 2017-04-06T12:27:23+05:30
 tags: movie-review
+spoilers: true
 ---
 
 Survival Horror.
