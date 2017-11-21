@@ -267,11 +267,11 @@ Key Tab A M WindowList
 
 Here,
 
-* Keyword: is Key since this is a keyboard shortcut
-* Actual Key: Tab
-* Context: Anywhere – A
-* Modifier: Meta/Alt – M
-* Action: Run built in command WindowList.
+* **Keyword**: is Key since this is a keyboard shortcut
+* **Actual Key**: Tab
+* **Context**: Anywhere – A
+* **Modifier**: Meta/Alt – M
+* **Action**: Run built in command WindowList.
 
 You must assign a command to each button 1-9 on the title bar of every window.
 Suppose we want to assign the custom function `FvwmDeleteOrDestroy` defined earlier to the rightmost button which is 2, we would do the following:
@@ -284,11 +284,11 @@ Mouse 1 2 A FvwmDeleteOrDestroy
 
 Here,
 
-* Keyword: is Mouse, since this is a mouse binding
-* Actual Key: is 1 to indicate a Left Click press. 2 for Middle Click and 3 for a Right Click.
-* Context: Where the click is actually done, in this case ’2′ for button no. 2 on the title bar.
-* Modifier: Any or none modifier keys required to perform this action.
-* Action: Call custom function FvwmDeleteOrDestroy
+* **Keyword**: is Mouse, since this is a mouse binding
+* **Actual Key**: is 1 to indicate a Left Click press. 2 for Middle Click and 3 for a Right Click.
+* **Context**: Where the click is actually done, in this case ’2′ for button no. 2 on the title bar.
+* **Modifier**: Any or none modifier keys required to perform this action.
+* **Action**: Call custom function FvwmDeleteOrDestroy
 
 Examples of bindings are as follows:
 
