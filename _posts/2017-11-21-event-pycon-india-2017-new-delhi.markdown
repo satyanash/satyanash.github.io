@@ -13,7 +13,7 @@ Unlike the last two times, I had planned better and had a full day before and af
 I really wanted to understand _how_ the community worked and made sure I talked to as much people as possible.
 I'd already subscribed to the pydelhi, bangpypers and #dgplug mailing lists so I had a general idea of what was going on and who was who.
 It was also a good thing that the conference had set aside two days specifically for the dev sprints.
-Last year, the dev sprints were held in parallel to the talks and I wasn't able to do decide between what I wanted to attend.
+Last year, the dev sprints were held in parallel to the talks and I wasn't able to decide between what I wanted to attend.
 
 Since this a long blog post, following is a table of contents:
 
@@ -287,7 +287,7 @@ She talked about the things new communities should keep in mind when starting up
 ### After Events
 {: #day3-after-events}
 
-Once the first day of the conference ended, I proceeded to join the rest of the volunteers for retrospective on how the day went.
+Once the first day of the conference ended, I proceeded to join the rest of the volunteers for a retrospective on how the day went.
 We discussed what went wrong and what could be improved, this included any tech glitches that cropped up with the mic system, the video recordings and other issues related to scheduling and catering.
 Some responsibilities were reassigned and new volunteers joined in while some others went missing.
 
@@ -320,7 +320,7 @@ what measures were taken by the community to fix them and what new the community
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 He discussed why his company built [Conda](https://conda.io), why they _had_ to improve the python packaging ecosystem itself in order to better perform their job of delivering quality software.
-He also talked about [Bokeh](https://bokeh.pydata.org/en/latest/), an open source visualization library for Python which his company is building in order to better serve the needs of today.
+He also talked about [Bokeh](https://bokeh.pydata.org/en/latest/), an Open Source visualization library for Python which his company is building in order to better serve the needs of today.
 
 ------
 
@@ -357,7 +357,7 @@ I still want to try it out just to understand where exactly it blocks me.
 ### Panel Discussion on Women in Open Source
 {: #panel2}
 
-While I hadn't given it much thought in the beginning, women are clearly under-represented in the open source software community.
+While I hadn't given it much thought in the beginning, women are clearly under-represented in the Open Source software community.
 This panel was held to discuss the reason why it is, the challenges faced by women who are in the community and what efforts are currently underway.
 
 The panel consisted of:
