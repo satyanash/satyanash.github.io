@@ -98,7 +98,7 @@ By the time I reached, almost all the chapters had been already claimed and conv
 I perused through the book and decided to bookmark it for later reading/experimenting.
 
 So I kept looking at other projects and I found out about [Bhavin](https://github.com/bhavin192) and his project called [review-board](https://github.com/geeksocket/review-board).
-I stared at the source code for a bit, but didn't find the project very interesting.
+I also checked out his blog called <https://geeksocket.in> which was very well written.
 
 Then I mostly hung around the place and began reading about Clojurescript.
 I'd been wanting to try it out for a while and decided that this was a good time.
