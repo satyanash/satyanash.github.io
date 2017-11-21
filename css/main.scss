@@ -31,6 +31,15 @@ strong {
     font-weight: $strong-font-weight;
 }
 
+::-moz-selection {
+	color: White;
+	background: $cobalt-blue;
+}
+::selection {
+	color: White;
+	background: $cobalt-blue;
+}
+
 a {
 	text-decoration:none;
 	color: $cobalt-blue;
