@@ -24,7 +24,7 @@ In the case of multiple middlewares, they are processed in the order they are ad
 
 Here is a sample Rack middleware that times the request:
 
-~~~ ruby
+{% highlight ruby %}
 class TimerRackMiddleware
   def initialize(app)
     @app = app
@@ -39,7 +39,7 @@ class TimerRackMiddleware
     [@status, @headers, @body]
   end
 end
-~~~
+{% endhighlight %}
 
 So in this middleware, the start point is taken, then the actual call to the Server is made with `@app.call(env)`, then the logger outputs the logging entry and finally returns the response as `[@status, @headers, @body]`
 
@@ -51,7 +51,7 @@ As per Django's [official documentation](https://docs.djangoproject.com/en/1.9/t
 Django allows you to define middlewares by duck-typing a class with specific well-documented methods.
 Here is a sample Django middleware class that times the request:
 
-~~~ python
+{% highlight python %}
 class TimerMiddleware(object):
     def process_request(self, request):
         request._request_time = datetime.now()
@@ -61,7 +61,7 @@ class TimerMiddleware(object):
         response.context_data['response_time'] = abs(response_time)
 	print("{} {} - Took: {} ms".format(request.method, request.path, abs(response_time)))
         return response
-~~~
+{% endhighlight %}
 
 Here, the `process_request()` method is called for each request, before Django decides which view to execute.
 On the other hand, `process_template_response()` is called just after the view has finished executing, which prints the timer information.
@@ -72,7 +72,7 @@ Analogous functionality to Django and Rack middlewares is achieved through the u
 
 Here is a sample `Filter` implementation that times the request:
 
-~~~ java
+{% highlight java %}
 public class TimerFilter implements Filter {
 
   public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
@@ -89,7 +89,7 @@ public class TimerFilter implements Filter {
     }
   }
 }
-~~~
+{% endhighlight %}
 
 In this filter, the `chain.doFilter(request,response)` calls the next filter in the chain and waits for it to be processed.
 Once the request is processed, the response is generated and the filter returns.
@@ -105,7 +105,7 @@ You can also mount middlewares onto specific routes, while ignoring other ones w
 
 Here is a sample application level route for timing a request:
 
-~~~ javascript
+{% highlight javascript %}
 var app = Express();
 
 app.use(function(req, res, next) {
@@ -116,7 +116,7 @@ app.use(function(req, res, next) {
     });
     next();
 });
-~~~
+{% endhighlight %}
 
 Here the call to `next()` passes the control to the next middleware function in this stack.
 
