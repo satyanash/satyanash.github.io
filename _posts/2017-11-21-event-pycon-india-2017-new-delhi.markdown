@@ -2,7 +2,7 @@
 layout: post
 title: "[Event] PyCon India 2017 - New Delhi"
 date: 2017-11-21T23:10:05+05:30
-tags: events
+tags: events software
 ---
 
 This was my third PyCon India, the first two being PyCon India 2015 and 2016.

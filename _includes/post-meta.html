@@ -2,7 +2,7 @@
 	<small>
 		<span title="{{ include.post.date }}">{{ include.post.date | date: "%b %-d, %Y" }}</span>
 		{% if include.post.author %} • {{ include.post.author }}{% endif %}
-		{% if include.post.tags != empty %} • filed under {{ include.post.tags }}{% endif %}
+		{% if include.post.tags != empty %} • filed under {{ include.post.tags | join: ", " }}{% endif %}
 		{% if include.post.meta %} • {{ include.post.meta }}{% endif %}
 		{% if include.post.spoilers %} • <span title="contains spoilers">aerodynamic</span> {% endif %}
 	</small>
