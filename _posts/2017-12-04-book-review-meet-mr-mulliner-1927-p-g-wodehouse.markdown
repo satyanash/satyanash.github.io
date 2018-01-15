@@ -12,7 +12,7 @@ Having always heard people mention that Wodehouse was their favorite English hum
 
 ![Meet Mr. Mulliner - P.G. Wodehouse (1927)](/img/book-cover-meet-mr-mulliner-p-g-wodehouse-1927.jpg 'Meet Mr. Mulliner - P.G. Wodehouse (1927)')
 
-The style is reminds me of other British comedies that I've read and seen which includes Jerome K Jerome, A Bit of Fry and Laurie, Monty Python, Hitchhiker's Guide and even Charlie Chaplin.
+The style reminds me of other British comedies that I've read and seen which includes Jerome K Jerome, A Bit of Fry and Laurie, Monty Python, Hitchhiker's Guide and even Charlie Chaplin.
 
 The many peculiar relatives that Mr. Mulliner has, are all quite awkward and end up in situations that are awkward to say the least.
 The Mulliner anecdotes are different in that they have less of the clumsiness and more of the believable.
