@@ -4,6 +4,7 @@
 		{% if include.post.author %} • {{ include.post.author }}{% endif %}
 		{% if include.post.tags != empty %} • filed under {{ include.post.tags | join: ", " }}{% endif %}
 		{% if include.post.meta %} • {{ include.post.meta }}{% endif %}
+		{% if include.post.rating %} • rated {{include.post.rating}}/5 {% endif %}
 		{% if include.post.spoilers %} • <span title="contains spoilers">aerodynamic</span> {% endif %}
 	</small>
 </p>
