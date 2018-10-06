@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Movie Review] Max Payne (2008)"
-date: 2018-10-06T15:30:00+05:30
+date: 2018-10-05T22:30:00+05:30
 tags: movie-review
 spoilers: true
 rating: 1
