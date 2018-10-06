@@ -4,6 +4,10 @@ title: "[Movie Review] Max Payne (2008)"
 date: 2018-10-06T15:30:00+05:30
 tags: movie-review
 spoilers: true
+rating: 1
+released_year: 2008
+type: movie
+language: en
 ---
 
 The name might sound cheesy now, but it always was. Even for a hardboiled detective video game.

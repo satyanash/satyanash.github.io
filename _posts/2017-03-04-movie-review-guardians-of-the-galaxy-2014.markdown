@@ -4,6 +4,10 @@ title: "[Movie Review] Guardians of the Galaxy (2014)"
 date: 2017-03-04T22:33:05+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2014
+type: movie
+language: en
 ---
 
 Another day, another Marvel movie.

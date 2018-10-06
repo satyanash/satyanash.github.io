@@ -4,6 +4,9 @@ title: "[Book Review] Meet Mr. Mulliner - P.G. Wodehouse (1927)"
 date: 2017-12-04T13:00:22+05:30
 tags: book-review
 spoilers: true
+released_year: 1927
+type: book
+language: en
 ---
 
 Angler's Rest, a pub(-lic house) in London, is the hangout spot of the author and the titular Mr. Mulliner.

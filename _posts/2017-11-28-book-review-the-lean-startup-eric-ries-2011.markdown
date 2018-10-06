@@ -3,6 +3,9 @@ layout: post
 title: "[Book Review] The Lean Startup - Eric Ries (2011)"
 date: 2017-11-28T03:17:24+05:30
 tags: book-review
+released_year: 2011
+type: book
+language: en
 ---
 
 This is the second of the two most recommended readings for anyone doing anything even remotely startup related (the other being [Zero to One]({% post_url 2017-03-30-book-review-zero-to-one-peter-thiel-2014 %})).

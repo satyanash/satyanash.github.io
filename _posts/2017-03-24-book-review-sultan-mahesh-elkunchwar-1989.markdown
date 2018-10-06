@@ -4,6 +4,9 @@ title: "[Book Review] Sultan - Mahesh Elkunchwar (1989)"
 date: 2017-03-24T23:13:47+05:30
 tags: book-review
 spoilers: true
+released_year: 1989
+type: book
+language: mr
 ---
 
 This is a collection of one act plays; another recommendation from my Mother as a nice way to get used to Elkunchwar's style.

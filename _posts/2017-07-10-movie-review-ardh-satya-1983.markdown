@@ -4,6 +4,10 @@ title: "[Movie Review] Ardh Satya (1983)"
 date: 2017-07-10T23:38:37+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 1983
+type: movie
+language: hi
 ---
 
 Happened to see this movie in memoriam Om Puri.

@@ -4,6 +4,10 @@ title: "[Movie Review] Wonder Woman (2017)"
 date: 2018-01-16T04:36:19+05:30
 tags: movie-review
 spoilers: true
+rating: 2
+released_year: 2017
+type: movie
+language: en
 ---
 
 It's becoming a challenge to write a superhero movie review these days.

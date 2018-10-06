@@ -3,6 +3,10 @@ layout: post
 title: "[Movie Review] The Secret Life of Pets (2016)"
 date: 2017-01-03T18:56:12+05:30
 tags: movie-review
+rating: 2
+released_year: 2016
+type: movie
+language: en
 ---
 
 Once released, the ingenious trailer sparked quite a few interesting reactions.

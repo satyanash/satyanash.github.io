@@ -4,6 +4,10 @@ title: "[Book Review] The Colour of Magic - Discworld 1 - Terry Pratchett (1983)
 date: 2017-04-11T14:53:27+05:30
 tags: book-review
 spoilers: true
+rating: 4
+released_year: 1983
+type: book
+language: en
 ---
 
 Having looked at various recommended reading orders and the litany of books that is Discworld, I am unsure if I will ever be able to read through Sir Pratchett's legacy.

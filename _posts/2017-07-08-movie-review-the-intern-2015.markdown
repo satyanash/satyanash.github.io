@@ -4,6 +4,10 @@ title: "[Movie Review] The Intern (2015)"
 date: 2017-07-08T15:19:04+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2015
+type: movie
+language: en
 ---
 
 It's always fun to see the _old boy in a new suit_ trope in action.

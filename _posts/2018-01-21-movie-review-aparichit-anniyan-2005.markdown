@@ -4,6 +4,10 @@ title: "[Movie Review] Aparichit (Anniyan) (2005)"
 date: 2018-01-21T01:09:28+05:30
 tags: movie-review
 spoilers: true
+rating: 2
+released_year: 2005
+type: movie
+language: ta
 ---
 
 I haven't seen many Tamil movies, translated or otherwise.

@@ -4,6 +4,10 @@ title: "[Movie Review] Sleeping Beauty (2011)"
 date: 2017-08-21T21:18:09+05:30
 tags: movie-review
 spoilers: true
+rating: 4
+released_year: 2011
+type: movie
+language: en
 ---
 
 Intentionally named after the well known children's tale of a girl who is molested in her sleep.

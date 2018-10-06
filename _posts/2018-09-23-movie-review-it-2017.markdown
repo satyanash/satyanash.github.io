@@ -4,6 +4,10 @@ title: "[Movie Review] It (2017)"
 date: 2018-09-23T20:53:21+05:30
 tags: movie-review
 spoilers: true
+rating: 4
+released_year: 2017
+type: movie
+language: en
 ---
 
 A movie with a weird two letter name, if you know how _It_ works, then you know what's gonna happen.

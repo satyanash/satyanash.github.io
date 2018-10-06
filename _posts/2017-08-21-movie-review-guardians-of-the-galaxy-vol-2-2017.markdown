@@ -4,6 +4,10 @@ title: "[Movie Review] Guardians of the Galaxy Vol. 2 (2017)"
 date: 2017-08-21T13:47:47+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2017
+type: movie
+language: en
 ---
 
 Touted as the much awaited sequel to the first volume, Guardians of the Galaxy Vol. 2 appears with the same circus pack of alien humanoids and similar galactic scale events of destruction.

@@ -4,6 +4,10 @@ title: "[Movie Review] Hitman: Agent 47 (2015)"
 date: 2016-12-03T22:10:24+05:30
 tags: movie-review
 spoilers: true
+rating: 2
+released_year: 2015
+type: movie
+language: en
 ---
 
 The first movie in the Hitman franchise was bad enough to also make it the last.

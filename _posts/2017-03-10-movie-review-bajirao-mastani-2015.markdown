@@ -4,6 +4,10 @@ title: "[Movie Review] Bajirao Mastani (2015)"
 date: 2017-03-10T21:56:04+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2015
+type: movie
+language: hi
 ---
 
 This is another Sanjay Leela Bhansali flick that I managed to pull through (the other being Ramleela).

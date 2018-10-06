@@ -4,6 +4,10 @@ title: "[Movie Review] Badmaash Company (2010)"
 date: 2018-06-16T23:19:08+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2010
+type: movie
+language: hi
 ---
 
 Movie depicts a bunch of youths who want to become rich for various reasons.

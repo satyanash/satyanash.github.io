@@ -4,6 +4,10 @@ title: "[Movie Review] Weekend at Bernie's (1989)"
 date: 2017-08-22T13:37:09+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 1989
+type: movie
+language: en
 ---
 
 I first heard about Weekend at Bernie's when I found out that _Jaane Bhi Do Yaaro_ was inspired by it.

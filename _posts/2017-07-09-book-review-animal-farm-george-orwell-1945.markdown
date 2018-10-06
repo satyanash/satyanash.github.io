@@ -4,6 +4,10 @@ title: "[Book Review] Animal Farm - George Orwell (1945)"
 date: 2017-07-09T22:24:33+05:30
 tags: book-review
 spoilers: true
+rating: 5
+released_year: 1945
+type: book
+language: en
 ---
 
 While intended as a satire of the Russian revolution, I think this book has far wider applications.

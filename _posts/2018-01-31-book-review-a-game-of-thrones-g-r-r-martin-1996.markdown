@@ -4,6 +4,10 @@ title: "[Book Review] A Game of Thrones - G.R.R. Martin (1996)"
 date: 2018-01-31T02:11:00+05:30
 tags: book-review
 spoilers: true
+rating: 5
+released_year: 1996
+type: book
+language: en
 ---
 
 I began the series after seeing all the seven seasons of the television adaptation.

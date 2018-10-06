@@ -3,6 +3,10 @@ layout: post
 title: "[Movie Review] Sully (2016)"
 date: 2017-04-09T10:30:18+05:30
 tags: movie-review
+rating: 4
+released_year: 2016
+type: movie
+language: en
 ---
 
 I had no clue of the events following the mildly amusing news that a plane had successully landed on the Hudson river.

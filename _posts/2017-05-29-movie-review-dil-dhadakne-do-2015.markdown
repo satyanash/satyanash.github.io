@@ -4,6 +4,10 @@ title: "[Movie Review] Dil Dhadakne Do (2015)"
 date: 2017-05-29T23:21:56+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2015
+type: movie
+language: hi
 ---
 
 I've been told that Farhan Akhtar has a reputation for making movies about rich people.

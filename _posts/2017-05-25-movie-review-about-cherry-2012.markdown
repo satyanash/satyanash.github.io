@@ -4,6 +4,10 @@ title: "[Movie Review] About Cherry (2012)"
 date: 2017-05-25T23:41:56+05:30
 tags: movie-review
 spoilers: true
+rating: 2
+released_year: 2012
+type: movie
+language: en
 ---
 
 How a girl with conventionally good looks enters the adult entertainment industry.

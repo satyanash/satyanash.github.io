@@ -4,6 +4,9 @@ title: "[Book Review] Jaya - Devdutt Pattanaik (2010)"
 date: 2017-04-25T23:41:56+05:30
 tags: book-review
 spoilers: true
+released_year: 2010
+type: book
+language: en
 ---
 
 An amalgamation of the various versions of the Mahabharat, consolidated by one Mr. Pattanaik.

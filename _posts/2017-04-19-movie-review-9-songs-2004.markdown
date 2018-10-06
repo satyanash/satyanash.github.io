@@ -4,6 +4,10 @@ title: "[Movie Review] 9 Songs (2004)"
 date: 2017-04-19T10:28:12+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2004
+type: movie
+language: en
 ---
 
 As is evident from the poster, the movie is a full sixty-nine minutes of sex and rock-n-roll music.

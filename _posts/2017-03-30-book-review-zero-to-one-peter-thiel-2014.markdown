@@ -3,6 +3,9 @@ layout: post
 title: "[Book Review] Zero to One - Peter Thiel (2014)"
 date: 2017-03-30T13:17:03+05:30
 tags: book-review
+released_year: 2014
+type: book
+language: en
 ---
 I started reading this book after having already attempted ( what felt like) a startup and working in a new one right now.
 The best way to keep up with this book is constant mental questions and thinking about how you've been thinking before.

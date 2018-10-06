@@ -4,6 +4,10 @@ title: "[Movie Review] Hardcore Henry (2015)"
 date: 2018-01-20T22:58:01+05:30
 tags: movie-review
 spoilers: true
+rating: 2
+released_year: 2015
+type: movie
+language: en
 ---
 
 There comes a time when a man chooses a movie out of pure randomness.

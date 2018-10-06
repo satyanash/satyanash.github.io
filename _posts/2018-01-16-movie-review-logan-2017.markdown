@@ -4,6 +4,10 @@ title: "[Movie Review] Logan (2017)"
 date: 2018-01-16T02:49:04+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2017
+type: movie
+language: en
 ---
 
 The much awaited finale to Hugh Jackman's Wolverine, Logan is an A-rated flick with no holds barred cursing, blood and gore.

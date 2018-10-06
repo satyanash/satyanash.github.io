@@ -4,6 +4,10 @@ title: "[Book Review] The Invisible Man - H.G. Wells (1897)"
 date: 2018-01-31T03:00:50+05:30
 tags: book-review
 spoilers: true
+rating: 4
+released_year: 1897
+type: book
+language: en
 ---
 
 I think almost all sci-fi is _social sci-fi_ because it otherwise would have to be science-fact or simply bullshit.

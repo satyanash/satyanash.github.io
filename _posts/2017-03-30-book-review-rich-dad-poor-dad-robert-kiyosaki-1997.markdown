@@ -3,6 +3,9 @@ layout: post
 title: "[Book Review] Rich Dad, Poor Dad - Robert Kiyosaki (1997)"
 date: 2017-03-30T14:34:13+05:30
 tags: book-review
+released_year: 1997
+type: book
+language: en
 ---
 
 This book made a lot of waves back in 2000 when it came out.

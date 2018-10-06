@@ -4,6 +4,10 @@ title: "[Book Review] Ranga Half-Pants - Suman Kumar (2016)"
 date: 2017-02-23T18:19:51+05:30
 tags: book-review
 spoilers: true
+rating: 3
+released_year: 2016
+type: book
+language: en
 ---
 
 The book's name and cover led me into believing that it was about how Ranga got his full-pants but that's only half the book.

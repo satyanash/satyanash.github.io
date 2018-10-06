@@ -3,6 +3,10 @@ layout: post
 title: "[Movie Review] Lights Out (2016)"
 date: 2018-02-04T18:14:04+05:30
 tags: movie-review
+rating: 1
+released_year: 2016
+type: movie
+language: en
 ---
 
 Most horror movies are the same.

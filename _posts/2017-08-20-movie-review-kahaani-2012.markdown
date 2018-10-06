@@ -4,6 +4,10 @@ title: "[Movie Review] Kahaani (2012)"
 date: 2017-08-20T15:01:16+05:30
 tags: movie-review
 spoilers: true
+rating: 2
+released_year: 2012
+type: movie
+language: hi
 ---
 
 Unlike most bollywood movies, this one begins with a chemical weapon genocide in the Kolkata metro of all places.

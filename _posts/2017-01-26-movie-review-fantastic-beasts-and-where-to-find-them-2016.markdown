@@ -4,6 +4,10 @@ title: "[Movie Review] Fantastic Beasts and Where to Find Them (2016)"
 date: 2017-01-26T23:19:20+05:30
 tags: movie-review
 spoilers: true
+rating: 3
+released_year: 2016
+type: movie
+language: en
 ---
 
 I'd expected the movie to portray how the namesake book came about in the Wizarding World: 

@@ -4,6 +4,10 @@ title: "[Movie Review] Life (2017)"
 date: 2017-04-06T12:27:23+05:30
 tags: movie-review
 spoilers: true
+rating: 1
+released_year: 2017
+type: movie
+language: en
 ---
 
 Survival Horror.
