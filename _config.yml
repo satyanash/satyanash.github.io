@@ -1,8 +1,7 @@
 # Site settings
 title: satyānāsh
 email: sayajeet aight kanetkar dawt co dawt in
-description: > # this means to ignore newlines until "baseurl:"
-        Personal website and blog of Satyajeet Kanetkar.
+description: I don't know anything.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://satyanash.github.io" # the base hostname & protocol for your site
 twitter_username: SatKanetkar
