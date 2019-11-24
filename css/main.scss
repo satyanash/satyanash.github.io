@@ -79,10 +79,8 @@ blockquote {
   position: fixed;
   height: 100%;
 	display:inline-block;
-	vertical-align:top;
-  padding-right: 1%;
+  width: 200px;
 
-	border-right: $border-style;
 
 	h1 > a {
 		color:inherit;
