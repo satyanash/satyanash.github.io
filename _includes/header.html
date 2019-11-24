@@ -10,36 +10,19 @@
 		<p>{{ site.description }}</p>
 
 		<nav>
-			<ul>
-				{% for page in site.pages %}
-				{% if page.title %}
-				<li>
-					<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-				</li>
-				{% endif %}
-				{% endfor %}
-				{% if site.github_username %}
-				<li>
-					<a href="https://github.com/{{ site.github_username }}" target="_blank">
-						<span class="icon icon--github">{% include github_16x16.svg %}</span>
-						<span class="username">GitHub</span>
-					</a>
-				</li>
-				{% endif %}
-
-				{% if site.twitter_username %}
-				<li>
-					<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
-						<span class="icon icon--twitter">{% include twitter_16x16.svg %}</span>
-						<span class="username">Twitter</span>
-					</a>
-				</li>
-				{% endif %}
-        <li>
-          <a href="{{ "/feed.xml" | prepend: site.baseurl }}"> RSS Feed</a>
-        </li>
-			</ul>
+      {% if site.github_username %}
+        <a href="https://github.com/{{ site.github_username }}" target="_blank">
+          <span>GitHub</span>
+        </a> ∙
+      {% endif %}
+      {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+          <span>Twitter</span>
+        </a> ∙
+      {% endif %}
+      <a href="{{ "/feed.xml" | prepend: site.baseurl }}"> RSS</a>
 		</nav>
+    <br/>
 		<nav>
       <a href="/tags/software.html">software</a> ∙
       <a href="/tags/movie-review.html">movies</a> ∙
