@@ -75,10 +75,12 @@ blockquote {
 	margin-right:auto;
 }
 
-.site-header {
-	width:20%;
+.sidebar {
+  position: fixed;
+  height: 100%;
 	display:inline-block;
 	vertical-align:top;
+  padding-right: 1%;
 
 	border-right: $border-style;
 
@@ -96,6 +98,7 @@ blockquote {
 	}
 	
 	@media( max-width: $breakpoint-tablet) {
+    position: static;
 		width:100%;
 		display:block;
 		text-align:center;
@@ -135,11 +138,13 @@ blockquote {
 
 	padding-left:2%;
 	padding-right:2%;
+  margin-left: 20%;
 
 	box-sizing:border-box;
 
 	@media( max-width: $breakpoint-tablet) {
 		width:100%;
+    margin-left: 0px;
 	}
 }
 
