@@ -96,6 +96,10 @@ blockquote {
 			width:100%;
 		}
 	}
+
+  > nav ul {
+    color: gray;
+  }
 	
 	@media( max-width: $breakpoint-tablet) {
     position: static;
@@ -125,7 +129,7 @@ blockquote {
 			}
 
 			> li:not(:first-child):before {
-				content: '|';
+				content: '∙';
 			}
 		}
 	}
