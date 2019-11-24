@@ -220,18 +220,8 @@ blockquote {
 
 .site-footer {
 	width:100%;
-	//border-top: $border-style;
 	color: gray;
-
-	ul {
-		width:25%;
-		list-style-type:none;
-		display:inline-block;
-	}
-
-	> p {
-		text-align:center;
-	}
+  text-align:center;
 }
 
 /**
