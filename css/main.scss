@@ -198,21 +198,23 @@ blockquote {
 		a {
 			color:black;
 		}
-		.next,.prev {
-			text-decoration:none;
-			.sym {
-				font-size:2em;
-				color:gray;
-			}
-			max-width:40%;
-		}
-		.next {
-			float:left;
-		}
-		.prev {
-			text-align:right;
-			float:right;
-		}
+    > table {
+      width: 100%;
+      td.next, td.prev {
+        text-decoration:none;
+        .sym {
+          font-size:2em;
+          color:gray;
+        }
+        width:50%;
+        vertical-align: top;
+        padding: 5px;
+      }
+
+      td.prev {
+        text-align:right;
+      }
+    }
 	}
 }
 
