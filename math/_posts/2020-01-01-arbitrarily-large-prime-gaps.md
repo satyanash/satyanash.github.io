@@ -32,4 +32,4 @@ I realized that I took the bumpy route when I read the wikipedia article on [Pri
 
 _Proof._ In the sequence $$ [n! + 2, n! + 3, n! + 4, \ldots , n! + n] $$ the first term is divisible by $$ 2 $$, the second term by $$ 3 $$ and so on. Thus this is a sequence of $$ n - 1 $$ consecutive composite integers. $$ \Box $$
 
-This one-liner works because all numbers from $$ 1 \ldots n $$ are divisors of $$ n! $$ :-/
+This one-liner works because all numbers from $$ 1 \ldots n $$ are divisors of $$ n! $$ 🤦🏽‍♂️
