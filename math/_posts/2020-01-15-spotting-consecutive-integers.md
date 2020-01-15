@@ -28,9 +28,9 @@ $$ 4^3 - 4 = 60 = 3 \cdot 20 $$
 
 We can use the idea that $$ (a^3 - a) $$ is divisible by $$ 3 $$, if it is equal to $$ 3 \cdot b $$ where $$ b \in \mathbb{Z} $$.
 
-_Proof._ Suppose $$ a \in \mathbb{Z} $$. We start with $$ a^3 - a $$. \
-Pulling out $$ a $$, we get $$ a ( a^2 - 1) $$. \
-The next step is to spot the difference of squares: $$ a ( a^2 - 1^2) = a (a - 1) (a + 1)$$. \
+_Proof._ Suppose $$ a \in \mathbb{Z} $$. We start with $$ a^3 - a $$. \\
+Pulling out $$ a $$, we get $$ a ( a^2 - 1) $$. \\
+The next step is to spot the difference of squares: $$ a ( a^2 - 1^2) = a (a - 1) (a + 1)$$. \\
 
 At this point we get stuck, as there is not much left to do arithmetically.
 We still don't have the $$ 3 $$ or the $$ b $$ we're looking for.
@@ -58,7 +58,7 @@ $$ (a - 1) (3c) (a + 1) = 3b $$, where $$ b = (a - 1) c (a + 1) $$
 
 $$ (a - 1) (a + 0) (3c) = 3b $$, where $$ b = (a - 1) (a + 0) c $$
 
-For the three forms of $$ (a^3 - a) $$, there is a $$ b $$ such that $$ (a^3 - a) = 3b $$. \
+For the three forms of $$ (a^3 - a) $$, there is a $$ b $$ such that $$ (a^3 - a) = 3b $$. \\
 Therefore, $$ (a^3 -3) $$ is divisible by $$ 3 $$. $$ \Box $$
 
 Here is another problem that relies on a similar appearance of consecutive integers.
@@ -89,5 +89,5 @@ $$ 4 (2b) (a+1) = 8 b (a+1) = 8c $$, where $$ c = b(a+1)$$
 
 $$ 4 (a) (2b) = 8 ab  = 8c $$, where $$ c = ab $$
 
-Here too, the two forms for $$ (n^2 - 1) $$ are equal to $$ 8c $$. \
+Here too, the two forms for $$ (n^2 - 1) $$ are equal to $$ 8c $$. \\
 Therefore, $$ (n^2 -1) $$ is divisible by $$ 8 $$. $$ \Box $$
