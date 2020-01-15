@@ -30,7 +30,7 @@ We can use the idea that $$ (a^3 - a) $$ is divisible by $$ 3 $$, if it is equal
 
 _Proof._ Suppose $$ a \in \mathbb{Z} $$. We start with $$ a^3 - a $$. \\
 Pulling out $$ a $$, we get $$ a ( a^2 - 1) $$. \\
-The next step is to spot the difference of squares: $$ a ( a^2 - 1^2) = a (a - 1) (a + 1)$$. \\
+The next step is to spot the difference of squares: $$ a ( a^2 - 1^2) = a (a - 1) (a + 1)$$.
 
 At this point we get stuck, as there is not much left to do arithmetically.
 We still don't have the $$ 3 $$ or the $$ b $$ we're looking for.
