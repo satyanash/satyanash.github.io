@@ -10,5 +10,5 @@ github_username:  satyanash
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
     - jekyll-sitemap
