@@ -10,6 +10,10 @@ layout: default
 
   <article class="post-content">
     {{ content }}
+
+    {% if page.rating and page.max_rating %}
+      <p>Rating: {{page.rating}}/{{page.max_rating}} ({% include rating.html rating=page.rating%})</p>
+    {% endif %}
   </article>
   <footer class="post-footer">
     <table>
