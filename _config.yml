@@ -8,6 +8,7 @@ github_username:  satyanash
 
 # Build settings
 markdown: kramdown
+timezone: 'UTC'
 
 plugins:
     - jekyll-sitemap
